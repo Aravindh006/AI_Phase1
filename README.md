@@ -52,7 +52,8 @@ You can install the required Python libraries using pip:
 ```bash
 pip install flask scikit-learn nltk spacy
 
-## Installation
+# Installation
+
 Clone this repository to your local machine:
 
 git clone https://github.com/yourusername/diabetes-chatbot.git
@@ -71,7 +72,6 @@ Chatbot: The chatbot application code, including chatbot logic and web interface
 Machine Learning Model: The trained model for diabetes prediction.
 Chatbot Interaction
 To run the chatbot, follow these steps:
-
 Navigate to the chatbot directory:
 
 cd chatbot
@@ -86,7 +86,6 @@ The chatbot will start, and you can access it through a web browser at http://lo
 The machine learning model for diabetes prediction should be trained and saved separately. Make sure to train the model using the relevant dataset and preprocessing steps before deploying it with the chatbot.
 
 Create a directory for your model, e.g., model.
-
 Train the model and save it to the model directory.
 
 Update the chatbot code (app.py) to load the trained model during chatbot interactions.
