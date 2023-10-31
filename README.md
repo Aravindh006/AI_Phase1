@@ -52,16 +52,16 @@ You can install the required Python libraries using pip:
 ```bash
 pip install flask scikit-learn nltk spacy  # Add other dependencies as needed
 
-Jayaprakash Coll, [10/31/2023 3:21 PM]
-Installation
+
+## Installation
 1.Clone this repository to your local machine:
 
-Jayaprakash Coll, [10/31/2023 3:21 PM]
+
 git clone https://github.com/yourusername/diabetes-chatbot.git
 
-Jayaprakash Coll, [10/31/2023 3:21 PM]
+
 Change to the project directory:
 
-Jayaprakash Coll, [10/31/2023 3:21 PM]
+
 cd diabetes-chatbot          
  
