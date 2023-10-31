@@ -1,27 +1,4 @@
-<img src="https://kriyatec.com/wp-content/uploads/2020/05/chatbot2.jpeg">
-
-
-
-# AI_Phase wise project submission
-# Create a chatbot in python
-
-Data source:https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot
-
-Reference:kaggle.com
-
-# How to run the code:
- Install jupyter notebook in your command prompt
- # pip install jupyter lab
-  # pip install jupyter notebook (or)
-           1.Download anaconda community software for deskstop
-           2.Install the anaconda community
-           3.Open the jupyter notebook
-           4.Type the code and execute the given code
-
- Jayaprakash Coll, [10/31/2023 3:13 PM]
-# AI-Powered Diabetes Prediction Chatbot README
-
-# Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
@@ -50,8 +27,7 @@ Before you begin, ensure you have the following dependencies installed:
 You can install the required Python libraries using pip:
 
 ```bash
-pip install flask scikit-learn nltk spacy
-
+pip install flask scikit-learn nltk spacy  # Add other dependencies as needed
 # Installation
 
 Clone this repository to your local machine:
@@ -70,8 +46,9 @@ This project consists of the following main components:
 
 Chatbot: The chatbot application code, including chatbot logic and web interface.
 Machine Learning Model: The trained model for diabetes prediction.
-Chatbot Interaction
+# Chatbot Interaction
 To run the chatbot, follow these steps:
+
 Navigate to the chatbot directory:
 
 cd chatbot
@@ -80,12 +57,14 @@ Run the chatbot application:
 
 python app.py
 
+
 The chatbot will start, and you can access it through a web browser at http://localhost:5000 (or a different address if specified).
 
-## Training the Model
+# Training the Model
 The machine learning model for diabetes prediction should be trained and saved separately. Make sure to train the model using the relevant dataset and preprocessing steps before deploying it with the chatbot.
 
 Create a directory for your model, e.g., model.
+
 Train the model and save it to the model directory.
 
 Update the chatbot code (app.py) to load the trained model during chatbot interactions.
@@ -100,4 +79,3 @@ Thank you for using our AI-Powered Diabetes Prediction Chatbot! If you have any 
 
 
 This README provides a clear structure for users to understand and use your AI-powered diabetes prediction chatbot. Make sure to replace the placeholders with your actual project details, and ensure that your code and project structure are organized accordingly.
- 
