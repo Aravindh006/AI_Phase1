@@ -50,10 +50,15 @@ Before you begin, ensure you have the following dependencies installed:
 You can install the required Python libraries using pip:
 
 ```bash
-pip install flask scikit-learn nltk spacy  # Add other dependencies as needed
+pip install flask scikit-learn nltk spacy4
+
+
+## Add other dependencies as needed
 
 
 ## Installation
+
+
 
 1.Clone this repository to your local machine:
 
