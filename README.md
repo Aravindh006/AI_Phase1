@@ -48,7 +48,7 @@ Before you begin, ensure you have the following dependencies installed:
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/diabetes-chatbot.git
+git clone https://github.com/Aravindh006/diabetes-chatbot.git
 
 Change to the project directory:
 
